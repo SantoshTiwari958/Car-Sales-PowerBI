@@ -1,24 +1,25 @@
 # Car-Sales-PowerBI
 This project aims to develop a dynamic Car Sales Dashboard using Power BI, presenting key performance indicators (KPIs) for our car sales. It will enable a thorough analysis of our sales performance over time and support informed, data-driven decision-making.
 
-Problem Statement 1: KPI’s Requirement
+# Problem Statement 1: KPI’s Requirement
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
-1.	Sales Overview:
+# 1.	Sales Overview:
 •	Year-to-Date (YTD) Total Sales
 •	Month-to-Date (MTD) Total Sales
 •	Year-over-Year (YOY) Growth in Total Sales
 •	Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
-2.	Average Price Analysis:
+# 2.	Average Price Analysis:
 •	YTD Average Price
 •	MTD Average Price
 •	YOY Growth in Average Price
 •	Difference between YTD Average Price and PTYD Average Price
-3.	Cars Sold Metrics:
+# 3.	Cars Sold Metrics:
 •	YTD Cars Sold
 •	MTD Cars Sold
 •	YOY Growth in Cars Sold
 •	Difference between YTD Cars Sold and PTYD Cars Sold
-Problem Statement 2: Charts Requirement
+
+# Problem Statement 2: Charts Requirement
 
 1.	YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
 2.	YTD Total Sales by Body Style: Visualize the distribution of YTD total sales across different car body styles using a Pie chart.
