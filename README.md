@@ -30,7 +30,16 @@ The dashboard should provide real-time insights into key performance indicators 
 
 # Screenshots
 
+# Sales Overview
 <img width="659" alt="image" src="https://github.com/SantoshTiwari958/Car-Sales-PowerBI/assets/48649095/0db84f63-14e4-4241-856f-6f07efc93920">
+
+# Sales Details
+<img width="667" alt="image" src="https://github.com/SantoshTiwari958/Car-Sales-PowerBI/assets/48649095/9a87b749-1338-4c57-8784-c29752f8cd50">
+
+# Sales Filters
+<img width="660" alt="image" src="https://github.com/SantoshTiwari958/Car-Sales-PowerBI/assets/48649095/25381185-93cc-4ba5-a36e-446cbc1e11c4">
+
+
 
 
 
